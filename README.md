@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-🌟 **The simplest and most common game**, created from the bottom of my heart for a college classmate to protect his project  
+🌟 **The simplest and most common game**, created from the bottom of my heart for a college classmate to protect his project (The game is made of two pictures)
 
 
 ## 📸 Screenshots
