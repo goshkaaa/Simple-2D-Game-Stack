@@ -10,5 +10,9 @@
   <img src="https://github.com/user-attachments/assets/b495f361-4df9-4973-9c4e-4ea9b70bf7bb" width="45%" alt="Gameplay 2">
 </div>
 
+## 🛠️ Fast start
+```bash
+git clone https://github.com/goshkaaa/Simple-2D-Game-Stack.git
+cd Simple-2D-Game-Stack/UnityProject
 
 
