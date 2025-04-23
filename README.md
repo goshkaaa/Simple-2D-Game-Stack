@@ -14,6 +14,4 @@
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/your-username/simple-protector-game.git
-cd simple-protector-game
-python main.py
+
