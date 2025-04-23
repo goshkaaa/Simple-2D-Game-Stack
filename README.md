@@ -1,4 +1,4 @@
-# 🎮 Simple Game · v1.0
+# 🎮 Simple Stack Game · v1.0
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
