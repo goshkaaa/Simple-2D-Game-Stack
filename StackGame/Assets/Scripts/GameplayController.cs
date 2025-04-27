@@ -63,10 +63,14 @@ public class GameplayController : Sounds
         if (moveCount == 3)
         {
             moveCount = 0;
+
+            // Поднимаем камеру
             cameraScript.targetPos.y += 1f;
+            box_Spawner.spawnY += 1f;
         }
     }
 
+    
     public void RestartGame()
     {
         Debug.Log("RestartGame() in GameplayController called");
@@ -82,5 +86,4 @@ public class GameplayController : Sounds
         scoreText.text = score.ToString();
     }
 
-  
 }

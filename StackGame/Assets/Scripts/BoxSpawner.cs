@@ -16,5 +16,7 @@ public class BoxSpawner : MonoBehaviour
         box_Obj.transform.position = temp;
 
         Debug.Log("Spawned box at: " + temp);
+
+        // Increment the spawnY position for the next box
     }
 }
